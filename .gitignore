@@ -1,0 +1,23 @@
+# Android / Gradle
+**/.gradle/
+**/build/
+**/local.properties
+**/.idea/
+**/*.iml
+
+# Flutter
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+
+# Keystore / secrets
+**/*.jks
+**/*.keystore
+**/key.properties
+**/.env
+
+# Windows
+Thumbs.db
+desktop.ini
